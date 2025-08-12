@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently a **a BTEch. 2nd year student**
+ 🔭 I’m currently a **a BTEch. 3rd year student**
  
  🌱 I’m currently learning **GoFiber, GSAP, Next JS**
 
