@@ -8,8 +8,6 @@
 Building production-grade systems with real users, real scale, and measurable impact.
 </p>
 
----
-
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE @ NIIT University (CGPA: 8.67)  
@@ -19,7 +17,6 @@ Building production-grade systems with real users, real scale, and measurable im
   - 1000+ concurrent traffic  
 - 🏆 Finalist @ TensorCraft ML Hackathon (NIT Trichy)
 
----
 ## 📊 Development Insights
 
 <p align="center">
@@ -31,16 +28,12 @@ Building production-grade systems with real users, real scale, and measurable im
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=thelegendaryarticuno&theme=dark" />
 </p>
 
----
-
 ## ⚙️ Developer Metrics
 
 - 🧩 **Consistency Score** → 1200+ contributions/year  
 - ⚡ **Core Strength** → Backend Systems + AI Integration  
 - 🏗️ **Build Style** → Scalable, production-focused  
 - 🚀 **Focus Area** → Real-world problem solving  
-
----
 
 ## ⚡ Engineering Mindset
 
@@ -50,8 +43,6 @@ Building production-grade systems with real users, real scale, and measurable im
   - Scalability  
   - Clean architecture  
 
----
-
 ## 🚀 Key Work
 
 ### 🔹 Crack Off-Campus (Career Platform)
@@ -60,22 +51,16 @@ Building production-grade systems with real users, real scale, and measurable im
 - 🔐 JWT Auth, RBAC, Razorpay integration  
 - 🌐 Full-stack (Next.js + Node + PostgreSQL)
 
----
-
 ### 🔹 siNUsoid Platform (Tech Fest System)
 - Handled **1000+ concurrent users**
 - Built real-time dashboards (Socket.IO)
 - Improved admin efficiency by **20%**
 - Deployed on Azure VM + Cloudflare R2
 
----
-
 ### 🔹 AI Transcription System
 - ⚡ Reduced processing time **45s → 2s (95% faster)**
 - Built with FastAPI + Whisper
 - Implemented clustering + preprocessing optimization
-
----
 
 ## 🏆 Hackathon & Experimental Projects
 
@@ -92,7 +77,6 @@ Building production-grade systems with real users, real scale, and measurable im
 
 👉 Shows strong understanding of **edge AI + privacy-first systems**
 
----
 
 ### 🔹 ResqAI (AI Disaster Resource Optimization System)
 📄 Idea & Architecture: :contentReference[oaicite:1]{index=1}  
@@ -105,8 +89,6 @@ Building production-grade systems with real users, real scale, and measurable im
 - Designed for **efficient rescue operations & allocation**
 
 👉 Focus: **AI + real-world emergency systems**
-
----
 
 ### 🔹 DisasterPulse (Real-Time Disaster Intelligence System)
 📄 Concept & System Design: :contentReference[oaicite:2]{index=2}  
@@ -122,8 +104,6 @@ Building production-grade systems with real users, real scale, and measurable im
 
 👉 Solves **data overload & delayed response in disasters**
 
----
-
 ### 🔹 QuickAid (Emergency Assistance App)
 🎥 Demo: *(add your video link here)*  
 
@@ -133,10 +113,7 @@ Building production-grade systems with real users, real scale, and measurable im
 
 👉 Shows **execution under constraints + real-world utility**
 
----
-
 ## 🧰 Tech Stack
-
 
 Frontend   → React, Next.js, Tailwind  
 Backend    → Node.js, Express, FastAPI  
@@ -147,7 +124,7 @@ DevOps     → Docker, AWS, Azure, CI/CD
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:seesuccesnow@gmail.com">
+  <a href="mailto:namanmani024@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
