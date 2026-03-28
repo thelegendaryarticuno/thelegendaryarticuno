@@ -41,11 +41,18 @@ Building production-grade systems with real users, real scale, and measurable im
 
 ## 🚀 Key Work
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔹 Crack Off-Campus (Career Platform)
 - ⭐ 4.9 rating | 1K+ downloads | 260+ reviews  
 - ⚡ Reduced backend latency **30ms → 13ms (56.7%)**  
 - 🔐 JWT Auth, RBAC, Razorpay integration  
 - 🌐 Full-stack (Next.js + Node + PostgreSQL)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔹 siNUsoid Platform (Tech Fest System)
 - Handled **1000+ concurrent users**
@@ -53,62 +60,83 @@ Building production-grade systems with real users, real scale, and measurable im
 - Improved admin efficiency by **20%**
 - Deployed on Azure VM + Cloudflare R2
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🔹 AI Transcription System
 - ⚡ Reduced processing time **45s → 2s (95% faster)**
 - Built with FastAPI + Whisper
 - Implemented clustering + preprocessing optimization
 
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+---
+
 ## 🏆 Hackathon & Experimental Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔹 DocuMentor (Privacy-First AI Document Assistant)
 🌐 https://docu-mentor-woad.vercel.app/
 
 - Runs entirely **on-device (no backend AI calls)**
-- Local LLM inference using WebAssembly + WebGPU
-- Features:
-  - Smart Highlights (importance-based extraction)
-  - Student Mode (auto teaching from notes)
-  - Research Mode (debate + writing feedback)
+- Local LLM inference using WebAssembly + WebGPU  
+- Smart Highlights + Student Mode + Research Mode  
 - Built with **React + TypeScript + local AI runtime**
 
-👉 Shows strong understanding of **edge AI + privacy-first systems**
+👉 Edge AI + privacy-first systems
 
+</td>
+<td width="50%" valign="top">
 
-### 🔹 ResqAI (AI Disaster Resource Optimization System)
-📄 Idea & Architecture: :contentReference[oaicite:1]{index=1}  
+### 🔹 ResqAI (AI Disaster Resource Optimization)
+📄 Idea & Architecture (PDF)
 
-- AI predicts **real-time disaster resource requirements**  
-- Includes:
-  - Severity mapping  
-  - Survivor tracking  
-  - AI-based inventory management  
-- Designed for **efficient rescue operations & allocation**
+- AI predicts **real-time disaster resource needs**  
+- Severity mapping + survivor tracking  
+- AI-driven inventory management  
 
-👉 Focus: **AI + real-world emergency systems**
+👉 Focus: AI for emergency systems
 
-### 🔹 DisasterPulse (Real-Time Disaster Intelligence System)
-📄 Concept & System Design: :contentReference[oaicite:2]{index=2}  
+</td>
+</tr>
 
-- Aggregates real-time data from:
-  - Social media  
-  - News APIs  
-- AI filters misinformation & surfaces critical insights  
-- Features:
-  - Geo-tagged alerts  
-  - Resource allocation dashboard  
-  - Trend prediction  
+<tr>
+<td width="50%" valign="top">
 
-👉 Solves **data overload & delayed response in disasters**
+### 🔹 DisasterPulse (Real-Time Disaster Intelligence)
+📄 Concept & System Design (PDF)
+
+- Aggregates data from social media + news  
+- AI filters misinformation  
+- Geo alerts + dashboards + trend prediction  
+
+👉 Solves disaster data chaos
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔹 QuickAid (Emergency Assistance App)
-🎥 Demo: *(add your video link here)*  
+🎥 Demo: *(add your video link)*  
 
-- Mobile-first system to **alert nearby people instantly**
-- Designed for **rapid emergency communication**
-- Built as APK (prototype stage)
+- Alerts nearby people instantly  
+- Mobile-first emergency communication  
+- APK prototype  
 
-👉 Shows **execution under constraints + real-world utility**
+👉 Real-world rapid response system
 
+</td>
+</tr>
+</table>
 ## 🧰 Tech Stack
 
 Frontend   → React, Next.js, Tailwind  
