@@ -12,49 +12,95 @@ Building production-grade systems with real users, real scale, and measurable im
 
 ## 🧠 About Me
 
-* 🎓 B.Tech CSE @ NIIT University (CGPA: 8.67) 
-* ⚡ Strong in **Backend Engineering, System Design & AI Integration**
-* 🧩 Built and deployed systems handling:
-
-  * **30K+ monthly users**
-  * **1000+ concurrent traffic**
-  * **Real-time dashboards & APIs**
-* 🏆 Finalist @ TensorCraft ML Hackathon (NIT Trichy) 
+- 🎓 B.Tech CSE @ NIIT University (CGPA: 8.67)  
+- ⚡ Focused on **Backend Engineering, AI Systems & Scalable Architectures**  
+- 🧩 Built systems handling:
+  - 30K+ monthly users  
+  - 1000+ concurrent traffic  
+- 🏆 Finalist @ TensorCraft ML Hackathon (NIT Trichy)
 
 ---
 
 ## 🚀 Key Work
 
 ### 🔹 Crack Off-Campus (Career Platform)
-
-* Built full-stack platform (Web + Mobile)
-* ⭐ 4.9 rating | 1K+ downloads | 260+ reviews
-* ⚡ Reduced backend latency **30ms → 13ms (56.7% improvement)**
-* 🔐 Implemented JWT, RBAC, payments (Razorpay)
+- ⭐ 4.9 rating | 1K+ downloads | 260+ reviews  
+- ⚡ Reduced backend latency **30ms → 13ms (56.7%)**  
+- 🔐 JWT Auth, RBAC, Razorpay integration  
+- 🌐 Full-stack (Next.js + Node + PostgreSQL)
 
 ---
 
-### 🔹 siNUsoid Tech Fest Platform
-
-* Handled **1000+ concurrent users**
-* Built real-time dashboards (Socket.IO)
-* Improved admin efficiency by **20%**
-* Deployed on Azure VM + Cloudflare R2
+### 🔹 siNUsoid Platform (Tech Fest System)
+- Handled **1000+ concurrent users**
+- Built real-time dashboards (Socket.IO)
+- Improved admin efficiency by **20%**
+- Deployed on Azure VM + Cloudflare R2
 
 ---
 
 ### 🔹 AI Transcription System
-
-* Reduced processing time **45s → 2s (95% faster)**
-* Built using FastAPI + Whisper
-* Implemented clustering + preprocessing optimizations
+- ⚡ Reduced processing time **45s → 2s (95% faster)**
+- Built with FastAPI + Whisper
+- Implemented clustering + preprocessing optimization
 
 ---
 
-### 🔹 Inventory Sync System (Ongoing)
+## 🏆 Hackathon & Experimental Projects
 
-* Automating stock sync across platforms
-* Reducing manual effort by **60%**
+### 🔹 DocuMentor (Privacy-First AI Document Assistant)
+🌐 https://docu-mentor-woad.vercel.app/
+
+- Runs entirely **on-device (no backend AI calls)**
+- Local LLM inference using WebAssembly + WebGPU :contentReference[oaicite:0]{index=0}  
+- Features:
+  - Smart Highlights (importance-based extraction)
+  - Student Mode (auto teaching from notes)
+  - Research Mode (debate + writing feedback)
+- Built with **React + TypeScript + local AI runtime**
+
+👉 Shows strong understanding of **edge AI + privacy-first systems**
+
+---
+
+### 🔹 ResqAI (AI Disaster Resource Optimization System)
+📄 Idea & Architecture: :contentReference[oaicite:1]{index=1}  
+
+- AI predicts **real-time disaster resource requirements**  
+- Includes:
+  - Severity mapping  
+  - Survivor tracking  
+  - AI-based inventory management  
+- Designed for **efficient rescue operations & allocation**
+
+👉 Focus: **AI + real-world emergency systems**
+
+---
+
+### 🔹 DisasterPulse (Real-Time Disaster Intelligence System)
+📄 Concept & System Design: :contentReference[oaicite:2]{index=2}  
+
+- Aggregates real-time data from:
+  - Social media  
+  - News APIs  
+- AI filters misinformation & surfaces critical insights  
+- Features:
+  - Geo-tagged alerts  
+  - Resource allocation dashboard  
+  - Trend prediction  
+
+👉 Solves **data overload & delayed response in disasters**
+
+---
+
+### 🔹 QuickAid (Emergency Assistance App)
+🎥 Demo: *(add your video link here)*  
+
+- Mobile-first system to **alert nearby people instantly**
+- Designed for **rapid emergency communication**
+- Built as APK (prototype stage)
+
+👉 Shows **execution under constraints + real-world utility**
 
 ---
 
@@ -66,49 +112,3 @@ Backend    → Node.js, Express, FastAPI
 AI/ML      → Python, Scikit-learn  
 Database   → PostgreSQL, MongoDB  
 DevOps     → Docker, AWS, Azure, CI/CD  
-```
-
----
-
-## 📊 Development Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thelegendaryarticuno&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thelegendaryarticuno&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelegendaryarticuno&layout=compact&theme=dark" />
-</p>
-
----
-
-## ⚙️ Developer Metrics
-
-* 🧩 **Consistency Score** → 1200+ contributions/year 
-* ⚡ **Core Strength** → Backend Systems + AI Integration
-* 🏗️ **Build Style** → Scalable, production-focused, performance-driven
-* 🚀 **Focus Area** → Real-world systems, not toy projects
-
----
-
-## ⚡ Engineering Mindset
-
-* I build **production systems**, not just projects
-* I focus on:
-
-  * Performance optimization
-  * Scalable backend architecture
-  * Clean and maintainable code
-
----
-
-## 📬 Contact
-
-<p align="center">
-  <a href="mailto:namanmani024@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
