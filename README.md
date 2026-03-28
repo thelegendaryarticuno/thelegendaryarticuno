@@ -83,7 +83,7 @@ Building production-grade systems with real users, real scale, and measurable im
 🌐 https://docu-mentor-woad.vercel.app/
 
 - Runs entirely **on-device (no backend AI calls)**
-- Local LLM inference using WebAssembly + WebGPU :contentReference[oaicite:0]{index=0}  
+- Local LLM inference using WebAssembly + WebGPU
 - Features:
   - Smart Highlights (importance-based extraction)
   - Student Mode (auto teaching from notes)
