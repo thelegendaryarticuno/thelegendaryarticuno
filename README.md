@@ -1,7 +1,7 @@
 <h1 align="center">👋 Naman Mani</h1>
 
 <h3 align="center">
-🚀 Full-Stack Engineer | AI Systems | Backend & Scalable Architectures
+🚀 Full-Stack Engineer | AI Systems | Software Developer
 </h3>
 
 <p align="center">
@@ -27,10 +27,10 @@ Building production-grade systems with real users, real scale, and measurable im
 
 ## ⚙️ Developer Metrics
 
-- 🧩 **Consistency Score** → 1200+ contributions/year  
-- ⚡ **Core Strength** → Backend Systems + AI Integration  
-- 🏗️ **Build Style** → Scalable, production-focused  
-- 🚀 **Focus Area** → Real-world problem solving  
+- **Consistency Score** → 1200+ contributions/year  
+- **Core Strength** → Backend Systems + AI Integration  
+- **Build Style** → Scalable, production-focused  
+- **Focus Area** → Real-world problem solving  
 
 ## 🚀 Key Work
 
@@ -38,20 +38,20 @@ Building production-grade systems with real users, real scale, and measurable im
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Crack Off-Campus (Career Platform)
+### 🔹 Crack Off-Campus (Career& Jobs Platform)
 - ⭐ 4.9 rating | 1K+ downloads | 260+ reviews  
 - ⚡ Reduced backend latency **30ms → 13ms (56.7%)**  
 - 🔐 JWT Auth, RBAC, Razorpay integration  
-- 🌐 Full-stack (Next.js + Node + PostgreSQL)
+- 🌐 Full-stack (Next.js, React.js, Node.js, PostgreSQL server)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔹 siNUsoid Platform (Tech Fest System)
-- Handled **1000+ concurrent users**
-- Built real-time dashboards (Socket.IO)
-- Improved admin efficiency by **20%**
-- Deployed on Azure VM + Cloudflare R2
+- Handled **1000+ concurrent users** on live platform
+- Built real-time dashboards (Socket.IO) for hackathon management.
+- Improved admin efficiency by **20%** for data extraction through CMS.
+- Deployed on Vercel, Azure VM & Cloudflare R2
 
 </td>
 </tr>
@@ -60,9 +60,11 @@ Building production-grade systems with real users, real scale, and measurable im
 <td width="50%" valign="top">
 
 ### 🔹 AI Transcription System
-- ⚡ Reduced processing time **45s → 2s (95% faster)**
-- Built with FastAPI + Whisper
-- Implemented clustering + preprocessing optimization
+- Podcast audio coverted segment of topics.
+- Takes 45 - 60 sec. for segmentation. 
+- Reduced processing time **45s → 2s (95% faster)** for repeated audio uploads.
+- Built with FastAPI, Faster Whisper & React JS.
+- Implemented preprocessing optimization, segmentation and caching.
 
 </td>
 <td width="50%" valign="top">
@@ -83,7 +85,9 @@ Building production-grade systems with real users, real scale, and measurable im
 
 - Runs entirely **on-device (no backend AI calls)**
 - Local LLM inference using WebAssembly + WebGPU  
-- Smart Highlights + Student Mode + Research Mode  
+- Smart Highlights for highlighting important topics for a document.
+- Student Mode for learning from document in webs.
+- Research Mode for writing reseacrh and debating over drafts.  
 - Built with **React + TypeScript + local AI runtime**
 
 👉 Edge AI + privacy-first systems
@@ -92,7 +96,6 @@ Building production-grade systems with real users, real scale, and measurable im
 <td width="50%" valign="top">
 
 ### 🔹 ResqAI (AI Disaster Resource Optimization)
-📄 Idea & Architecture (PDF)
 
 - AI predicts **real-time disaster resource needs**  
 - Severity mapping + survivor tracking  
@@ -107,7 +110,6 @@ Building production-grade systems with real users, real scale, and measurable im
 <td width="50%" valign="top">
 
 ### 🔹 DisasterPulse (Real-Time Disaster Intelligence)
-📄 Concept & System Design (PDF)
 
 - Aggregates data from social media + news  
 - AI filters misinformation  
@@ -119,7 +121,6 @@ Building production-grade systems with real users, real scale, and measurable im
 <td width="50%" valign="top">
 
 ### 🔹 QuickAid (Emergency Assistance App)
-🎥 Demo: *(add your video link)*  
 
 - Alerts nearby people instantly  
 - Mobile-first emergency communication  
@@ -130,6 +131,7 @@ Building production-grade systems with real users, real scale, and measurable im
 </td>
 </tr>
 </table>
+
 ## 🧰 Tech Stack
 
 Frontend   → React, Next.js, Tailwind  
