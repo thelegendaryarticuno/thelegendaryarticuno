@@ -32,14 +32,6 @@ Building production-grade systems with real users, real scale, and measurable im
 - 🏗️ **Build Style** → Scalable, production-focused  
 - 🚀 **Focus Area** → Real-world problem solving  
 
-## ⚡ Engineering Mindset
-
-- I build **production systems**, not just projects  
-- I focus on:
-  - Performance  
-  - Scalability  
-  - Clean architecture  
-
 ## 🚀 Key Work
 
 <table>
