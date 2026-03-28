@@ -106,7 +106,7 @@ DevOps     → Docker, AWS, Azure, CI/CD
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:seesuccesnow@gmail.com">
+  <a href="mailto:namanmani024@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
