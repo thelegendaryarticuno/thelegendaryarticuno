@@ -20,6 +20,37 @@ Building production-grade systems with real users, real scale, and measurable im
 - 🏆 Finalist @ TensorCraft ML Hackathon (NIT Trichy)
 
 ---
+## 📊 Development Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thelegendaryarticuno&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thelegendaryarticuno&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelegendaryarticuno&layout=compact&theme=dark" />
+</p>
+
+---
+
+## ⚙️ Developer Metrics
+
+- 🧩 **Consistency Score** → 1200+ contributions/year  
+- ⚡ **Core Strength** → Backend Systems + AI Integration  
+- 🏗️ **Build Style** → Scalable, production-focused  
+- 🚀 **Focus Area** → Real-world problem solving  
+
+---
+
+## ⚡ Engineering Mindset
+
+- I build **production systems**, not just projects  
+- I focus on:
+  - Performance  
+  - Scalability  
+  - Clean architecture  
+
+---
 
 ## 🚀 Key Work
 
@@ -106,9 +137,17 @@ Building production-grade systems with real users, real scale, and measurable im
 
 ## 🧰 Tech Stack
 
-```txt
+
 Frontend   → React, Next.js, Tailwind  
 Backend    → Node.js, Express, FastAPI  
 AI/ML      → Python, Scikit-learn  
 Database   → PostgreSQL, MongoDB  
-DevOps     → Docker, AWS, Azure, CI/CD  
+DevOps     → Docker, AWS, Azure, CI/CD
+
+## 📬 Contact
+
+<p align="center">
+  <a href="mailto:seesuccesnow@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
