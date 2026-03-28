@@ -144,6 +144,10 @@ DevOps     → Docker, AWS, Azure, CI/CD
 
 <p align="center">
   <a href="mailto:namanmani024@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-namanmani024%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/namanmani">
+    <img src="https://img.shields.io/badge/LinkedIn-Naman%20Mani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
