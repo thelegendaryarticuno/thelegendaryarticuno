@@ -20,11 +20,6 @@ Building production-grade systems with real users, real scale, and measurable im
 ## 📊 Development Insights
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-dusky-rho-86.vercel.app/api?username=thelegendaryarticuno&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats-dusky-rho-86.vercel.app/api/top-langs/?username=thelegendaryarticuno&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=thelegendaryarticuno&theme=dark&hide_border=true" />
 </p>
 
