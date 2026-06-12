@@ -260,26 +260,7 @@ Built and scaled a career platform from zero to **30K+ monthly users**.
 
 ---
 
-## 📜 Certifications
 
-<div align="center">
-
-#### AWS
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Architecting-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=1a1b27" />
-
-#### Oracle
-<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1b27" />
-
-#### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Computer%20Science-7C3AED?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1a1b27" />
-
-#### Cisco
-<img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white&labelColor=1a1b27" />
-
-</div>
-
----
 
 ## ⚔️ Coding Profiles
 
@@ -313,7 +294,7 @@ Built and scaled a career platform from zero to **30K+ monthly users**.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thelegendaryarticuno&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=thelegendaryarticuno&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 </div>
 
@@ -334,12 +315,13 @@ Built and scaled a career platform from zero to **30K+ monthly users**.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thelegendaryarticuno/thelegendaryarticuno/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thelegendaryarticuno/thelegendaryarticuno/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/thelegendaryarticuno/thelegendaryarticuno/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thelegendaryarticuno/thelegendaryarticuno/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thelegendaryarticuno/thelegendaryarticuno/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/thelegendaryarticuno/thelegendaryarticuno/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
+
 
 ---
 
