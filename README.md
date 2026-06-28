@@ -261,7 +261,7 @@ Built and scaled a career platform from zero to **30K+ monthly users**.
 ---
 
 
-
+<!--
 ## ⚔️ Coding Profiles
 
 <div align="center">
@@ -272,7 +272,7 @@ Built and scaled a career platform from zero to **30K+ monthly users**.
 <a href="https://www.codechef.com/users/thelegendaryarticuno"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1b27" height="40" /></a>
 
 </div>
-
+-->
 ---
 
 ## 📊 GitHub Analytics
@@ -288,7 +288,7 @@ Built and scaled a career platform from zero to **30K+ monthly users**.
 
 </div>
 
----
+<!--
 
 ## 🏆 GitHub Trophies
 
@@ -298,7 +298,7 @@ Built and scaled a career platform from zero to **30K+ monthly users**.
 
 </div>
 
----
+-->
 
 ## 📈 Contribution Activity
 
