@@ -39,7 +39,9 @@ Software Engineer specializing in **backend systems, AI integration, and scalabl
 - 📦 **Product Engineering Mindset** — Shipping measurable outcomes: 56.7% latency reduction, 95% faster processing, 20% efficiency gains
 - 🏆 **Finalist** @ TensorCraft ML Hackathon (NIT Trichy)
 
-**🔓 Open To:** Software Engineering Roles · AI Engineering Roles · Backend Engineering · Open Source Collaboration
+**🔓 Open To:** Software Engineering Roles · AI Engineering Roles · Backend Engineering · Open Source Collaboration.
+
+**🔓 Fun Fact:** I believe coders are good mathematician.
 
 ---
 
